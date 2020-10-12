@@ -2,6 +2,7 @@
 Content:
 1. [Git and GitHub](#git-and-github)
 2. [Linux, Command Line, HTTP Tools](#linux-cli-http)
+3. [Git for Team Collaboration](#git-coolab)
 
 <a name="git-and-github"></a>
 ## Git and Github
@@ -23,3 +24,12 @@ I have finished a Linux CLI, and HTTP part of course and now I can make come con
 * I confidently say I've started using Linux CLI for my daily activities on computer. Also I wish I started use grep command for improve my work and make it easy.   
 
 [Screenshots of lessons](./task_linux_cli) =D
+
+<a name="git-coolab"></a>
+## Git Collaboration
+I have finished Git Collaboration lessons and I can say that they was wery useful.
+* I have already understood difference between origin and upstream branches and how remote repo works.Also It is very useful understand difference between fork and clone repositories. Thank you for this!!!
+* I was surprised by realizing how branches ease and difficulte work at the same time. It seems so difficulte at the first time but if you try it out to understand the most basic and useful features everything will become more clear.
+* I hope I will use all my new knowledges, which will help me optimize my work and make it easier, in future!
+
+[Screenshots of lessons](./git-collaboration) =D
