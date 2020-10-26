@@ -6,6 +6,7 @@ Content:
 4. [Intro to HTML and CSS](#intro)
 5. [Responsive Web Design](#responsive)
 6. [HTML & CSS practice: Hooli-style Popup](#popup)
+7. [JavaScript Basics](#js-basic)
 
 <a name="git-and-github"></a>
 ## Git and Github
@@ -59,3 +60,12 @@ I have finished responsive Web Design lesson and I can make some conclusion.
 ## HTML & CSS practice: Hooli-style Popup
 [Code Sourse](./html-css-popup) || 
 [Demo](https://annastoyano.github.io/PopUp/)
+
+<a name="#js-basic"></a>
+## JavaScript Basics
+I have finished JavaScript Basics not so long ago and I have improved my js skills step by step solving this task! If absolutely be honest sometimes I thought that they have never ended.
+* I've repeated all my knowledge about js and I have learned more information about arrays functions such as `reduce`,`splice`.Aslo I have started better understent `...` and ES6's features. I got a lot of practice doing exersices.
+* I was surprised by ES6's features. They make some ordinary things more easy and quickly.Aslo I was surprised by fact that it is possiple return function more than one time and can call them like this `funName(1)(2)(123)`;  
+* I confidently say that I'm going to implement all my new knowledges in practice in future!
+
+[Screenshots of lessons](./js-basic) =D
