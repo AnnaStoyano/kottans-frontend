@@ -7,6 +7,7 @@ Content:
 5. [Responsive Web Design](#responsive)
 6. [HTML & CSS practice: Hooli-style Popup](#popup)
 7. [JavaScript Basics](#js-basic)
+8. [Document Object Model](#dom)
 
 <a name="git-and-github"></a>
 ## Git and Github
@@ -69,3 +70,13 @@ I have finished JavaScript Basics not so long ago and I have improved my js skil
 * I confidently say that I'm going to implement all my new knowledges in practice in future!
 
 [Screenshots of lessons](./js-basic) =D
+
+
+<a name='dom'></a>
+## Document Object Model
+I have finished Document Object Model section and I have improved my js practical skills and learned new knowladge.
+* I've repeated all my knowledge about DOM and I have learned about `tokens` and `interfaces`, `Document Fragment`,`Reflow & Repaint` and `Call Stack`. A lot of useful and new information! WOW!
+* I was surprised by fact that `Node` and `Element` have interfaces and `Element` interface inherits `Node` interface that inherits `Event Target` interface. Also I was surprised by principle of work `Call Stack`.
+* I confidently say that I'm going to implement all my new knowledges in practice in future!
+
+[Screenshots of lessons](./dom) =D
