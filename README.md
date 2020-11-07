@@ -79,4 +79,7 @@ I have finished Document Object Model section and I have improved my js practica
 * I was surprised by fact that `Node` and `Element` have interfaces and `Element` interface inherits `Node` interface that inherits `Event Target` interface. Also I was surprised by principle of work `Call Stack`.
 * I confidently say that I'm going to implement all my new knowledges in practice in future!
 
+[Demo](https://annastoyano.github.io/DOM/index) ||
+[Code](https://github.com/AnnaStoyano/DOM)
+
 [Screenshots of lessons](./dom) =D
