@@ -6,6 +6,8 @@ Content:
 4. [Intro to HTML and CSS](#intro)
 5. [Responsive Web Design](#responsive)
 6. [HTML & CSS practice: Hooli-style Popup](#popup)
+7. [JavaScript Basics](#js-basic)
+8. [Document Object Model](#dom)
 
 <a name="git-and-github"></a>
 ## Git and Github
@@ -59,3 +61,22 @@ I have finished responsive Web Design lesson and I can make some conclusion.
 ## HTML & CSS practice: Hooli-style Popup
 [Code Sourse](./html-css-popup) || 
 [Demo](https://annastoyano.github.io/PopUp/)
+
+<a name="#js-basic"></a>
+## JavaScript Basics
+I have finished JavaScript Basics not so long ago and I have improved my js skills step by step solving this task! If absolutely be honest sometimes I thought that they have never ended.
+* I've repeated all my knowledge about js and I have learned more information about arrays functions such as `reduce`,`splice`.Aslo I have started better understent `...` and ES6's features. I got a lot of practice doing exersices.
+* I was surprised by ES6's features. They make some ordinary things more easy and quickly.Aslo I was surprised by fact that it is possiple return function more than one time and can call them like this `funName(1)(2)(123)`;  
+* I confidently say that I'm going to implement all my new knowledges in practice in future!
+
+[Screenshots of lessons](./js-basic) =D
+
+
+<a name='dom'></a>
+## Document Object Model
+I have finished Document Object Model section and I have improved my js practical skills and learned new knowladge.
+* I've repeated all my knowledge about DOM and I have learned about `tokens` and `interfaces`, `Document Fragment`,`Reflow & Repaint` and `Call Stack`. A lot of useful and new information! WOW!
+* I was surprised by fact that `Node` and `Element` have interfaces and `Element` interface inherits `Node` interface that inherits `Event Target` interface. Also I was surprised by principle of work `Call Stack`.
+* I confidently say that I'm going to implement all my new knowledges in practice in future!
+
+[Screenshots of lessons](./dom) =D
