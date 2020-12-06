@@ -64,7 +64,7 @@ I have finished responsive Web Design lesson and I can make some conclusion.
 [Code Sourse](./html-css-popup) || 
 [Demo](https://annastoyano.github.io/PopUp/)
 
-<a name="#js-basic"></a>
+<a name="js-basic"></a>
 ## JavaScript Basics
 I have finished JavaScript Basics not so long ago and I have improved my js skills step by step solving this task! If absolutely be honest sometimes I thought that they have never ended.
 * I've repeated all my knowledge about js and I have learned more information about arrays functions such as `reduce`,`splice`.Aslo I have started better understent `...` and ES6's features. I got a lot of practice doing exersices.
@@ -100,5 +100,7 @@ I have finished Object-Oriented JavaScript section and I have improved my opp kn
 * I have gotten a lot of useful advices from my mentor - OleksiyRudenko. I hope that I will code which more easier to read and meet DRY requirements.
 
 [Screenshots of lessons](./object-oriented-js) =D
+
 [Frogger](https://annastoyano.github.io/Frogger/index)
+
 [Codewars profile](https://www.codewars.com/users/AnnaStoy)
