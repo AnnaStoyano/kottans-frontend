@@ -10,6 +10,7 @@ Content:
 8. [Document Object Model](#dom)
 9. [Building a Tiny JS World](#pre-oop)
 10. [Object-Oriented JavaScript](#oop)
+11. [OOP exercise](#oop-exe)
 
 <a name="git-and-github"></a>
 ## Git and Github
@@ -104,3 +105,18 @@ I have finished Object-Oriented JavaScript section and I have improved my opp kn
 [Frogger](https://annastoyano.github.io/Frogger/index)
 
 [Codewars profile](https://www.codewars.com/users/AnnaStoy)
+
+<a name="oop-exe"></a>
+## OOP exercise
+The first I want to say - thank you,Oleksiy Rudenko, for all notes, advices and patience!
+I took a lot of useful practical advices: 
+  * Declare all common variables in parent class
+  * When you pass parameters to the constructor use named arguments `constructur(name, age, city)`instead of objects `constructor({name:'Anna', age:21, city:Kiyv})`. It makes code more clear to understand and you avoid repeat yourself
+  * Try to take out all the common functionality to parent class
+  * Make the method to work with properties known to this class
+  * If 2 child have the same property you should create parent class for them and inherits it
+
+[Demo](https://annastoyano.github.io/a-tiny-JS-world/index) |
+[Code base](https://github.com/AnnaStoyano/a-tiny-JS-world/)
+
+
