@@ -11,6 +11,7 @@ Content:
 9. [Building a Tiny JS World](#pre-oop)
 10. [Object-Oriented JavaScript](#oop)
 11. [OOP exercise](#oop-exe)
+12. [Memory-pair-game](#mpg)
 
 <a name="git-and-github"></a>
 ## Git and Github
@@ -119,4 +120,9 @@ I took a lot of useful practical advices:
 [Demo](https://annastoyano.github.io/a-tiny-JS-world/index) |
 [Code base](https://github.com/AnnaStoyano/a-tiny-JS-world/)
 
+<a name="mpg"></a>
+## Memory – Pair Game
+I created Memory – Pair Game using classes. Thanks a lot to MaxKalashnyk. With his help and advices I find out that I should use constant variables as much as possible. Also I can use `function({target})` instead of `event.target` and I use `element.closest('selector')` instead of `element.parentElement`.
 
+[Demo](https://annastoyano.github.io/memory-pair/index.html) |
+[Code base](https://github.com/AnnaStoyano/memory-pair)
