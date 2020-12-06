@@ -8,6 +8,7 @@ Content:
 6. [HTML & CSS practice: Hooli-style Popup](#popup)
 7. [JavaScript Basics](#js-basic)
 8. [Document Object Model](#dom)
+9. [Building a Tiny JS World](#pre-oop)
 
 <a name="git-and-github"></a>
 ## Git and Github
@@ -79,4 +80,14 @@ I have finished Document Object Model section and I have improved my js practica
 * I was surprised by fact that `Node` and `Element` have interfaces and `Element` interface inherits `Node` interface that inherits `Event Target` interface. Also I was surprised by principle of work `Call Stack`.
 * I confidently say that I'm going to implement all my new knowledges in practice in future!
 
+[Demo](https://annastoyano.github.io/DOM/index) ||
+[Code](https://github.com/AnnaStoyano/DOM)
+
 [Screenshots of lessons](./dom) =D
+
+<a name="pre-oop"></a>
+## Building a Tiny JS World
+I finished Building a Tiny JS World and met with pre-opp =)
+[Demo](https://annastoyano.github.io/a-tiny-JS-world/) || 
+[Code base](https://github.com/AnnaStoyano/a-tiny-JS-world)
+
