@@ -9,6 +9,7 @@ Content:
 7. [JavaScript Basics](#js-basic)
 8. [Document Object Model](#dom)
 9. [Building a Tiny JS World](#pre-oop)
+10. [Object-Oriented JavaScript](#oop)
 
 <a name="git-and-github"></a>
 ## Git and Github
@@ -91,3 +92,13 @@ I finished Building a Tiny JS World and met with pre-opp =)
 [Demo](https://annastoyano.github.io/a-tiny-JS-world/) || 
 [Code base](https://github.com/AnnaStoyano/a-tiny-JS-world)
 
+<a name="oop"></a>
+## Object-Oriented JavaScript
+I have finished Object-Oriented JavaScript section and I have improved my opp knowladge and implemented them into real project.
+* I've repeated all my knowledge about OOP in JS and learn a lot of useful information such as scope, prototypes, closure and oop patterns.
+* I was surprised by how ES6 makes code more clearly and understantable for human. Also prototypes are so powerful and I realized that every FE developer must now how it works.
+* I have gotten a lot of useful advices from my mentor - OleksiyRudenko. I hope that I will code which more easier to read and meet DRY requirements.
+
+[Screenshots of lessons](./object-oriented-js) =D
+[Frogger](https://annastoyano.github.io/Frogger/index)
+[Codewars profile](https://www.codewars.com/users/AnnaStoy)
