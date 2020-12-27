@@ -12,6 +12,7 @@ Content:
 10. [Object-Oriented JavaScript](#oop)
 11. [OOP exercise](#oop-exe)
 12. [Memory-pair-game](#mpg)
+13. [Friends App](#frapp)
 
 <a name="git-and-github"></a>
 ## Git and Github
@@ -126,3 +127,10 @@ I created Memory – Pair Game using classes. Thanks a lot to MaxKalashnyk. With
 
 [Demo](https://annastoyano.github.io/memory-pair/index.html) |
 [Code base](https://github.com/AnnaStoyano/memory-pair)
+
+<a name="frapp"></a>
+## Friends App
+I created Friends App using classes. Thanks so much Ivan Tytarenko for his advices and notes) Now I understand how correcte handle fetch errors and how make my code more readable.
+
+[Demo](https://annastoyano.github.io/Friends-app/index.html) |
+[Code base](https://github.com/AnnaStoyano/Friends-app)
